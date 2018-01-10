@@ -1,0 +1,16 @@
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk.Tests\bin\Debug\netcoreapp2.0\CashDesk.dll
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk.Tests\obj\Debug\netcoreapp2.0\CashDesk.Tests.csprojResolveAssemblyReference.cache
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk.Tests\obj\Debug\netcoreapp2.0\CashDesk.Tests.csproj.CoreCompileInputs.cache
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk.Tests\obj\Debug\netcoreapp2.0\CashDesk.Tests.AssemblyInfoInputs.cache
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk.Tests\obj\Debug\netcoreapp2.0\CashDesk.Tests.AssemblyInfo.cs
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk.Tests\bin\Debug\netcoreapp2.0\CashDesk.Tests.deps.json
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk.Tests\bin\Debug\netcoreapp2.0\CashDesk.Tests.runtimeconfig.json
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk.Tests\bin\Debug\netcoreapp2.0\CashDesk.Tests.runtimeconfig.dev.json
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk.Tests\bin\Debug\netcoreapp2.0\CashDesk.Tests.dll
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk.Tests\bin\Debug\netcoreapp2.0\CashDesk.pdb
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk.Tests\bin\Debug\netcoreapp2.0\CashDesk.Tests.pdb
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk.Tests\obj\Debug\netcoreapp2.0\CashDesk.Tests.dll
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk.Tests\obj\Debug\netcoreapp2.0\CashDesk.Tests.pdb

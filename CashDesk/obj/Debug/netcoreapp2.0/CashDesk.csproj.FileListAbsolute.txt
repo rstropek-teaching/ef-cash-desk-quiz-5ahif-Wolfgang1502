@@ -1,0 +1,9 @@
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk\bin\Debug\netcoreapp2.0\CashDesk.deps.json
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk\bin\Debug\netcoreapp2.0\CashDesk.dll
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk\obj\Debug\netcoreapp2.0\CashDesk.csprojResolveAssemblyReference.cache
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk\obj\Debug\netcoreapp2.0\CashDesk.csproj.CoreCompileInputs.cache
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk\obj\Debug\netcoreapp2.0\CashDesk.AssemblyInfoInputs.cache
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk\obj\Debug\netcoreapp2.0\CashDesk.AssemblyInfo.cs
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk\bin\Debug\netcoreapp2.0\CashDesk.pdb
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk\obj\Debug\netcoreapp2.0\CashDesk.dll
+C:\Users\wolfi\Desktop\Schulordner_5AHIF\C#\Hausübungen\6_Hausübung\Clone\CashDesk\obj\Debug\netcoreapp2.0\CashDesk.pdb
